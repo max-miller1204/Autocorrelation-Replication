@@ -1,0 +1,17 @@
+"m","test","50","100"
+0,"Stud. Perm.",0.06,0.07
+0,"Unst. Perm.",0.05,0.05
+0,"Ljung-Box",0.05,0.03
+0,"Box-Pierce",0.04,0.03
+1,"Stud. Perm.",0.06,0.07
+1,"Unst. Perm.",0.05,0.05
+1,"Ljung-Box",0.05,0.03
+1,"Box-Pierce",0.04,0.03
+2,"Stud. Perm.",0.06,0.05
+2,"Unst. Perm.",0.15,0.15
+2,"Ljung-Box",0.18,0.23
+2,"Box-Pierce",0.16,0.22
+3,"Stud. Perm.",0.04,0.08
+3,"Unst. Perm.",0.2,0.3
+3,"Ljung-Box",0.31,0.39
+3,"Box-Pierce",0.25,0.38

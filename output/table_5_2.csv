@@ -1,0 +1,17 @@
+"Distribution","test","50","100"
+"AR(2), N(0,1) innov.","Stud. Perm.",0.05,0.04
+"AR(2), N(0,1) innov.","Unst. Perm.",0.15,0.11
+"AR(2), N(0,1) innov.","Ljung-Box",0.38,0.24
+"AR(2), N(0,1) innov.","Box-Pierce",0.38,0.23
+"AR(2) Prod., N(0,1) innov.","Stud. Perm.",0.02,0.05
+"AR(2) Prod., N(0,1) innov.","Unst. Perm.",0.04,0.07
+"AR(2) Prod., N(0,1) innov.","Ljung-Box",0.21,0.23
+"AR(2) Prod., N(0,1) innov.","Box-Pierce",0.2,0.22
+"AR(2), U[-1,1] innov.","Stud. Perm.",0.03,0
+"AR(2), U[-1,1] innov.","Unst. Perm.",0.1,0.16
+"AR(2), U[-1,1] innov.","Ljung-Box",0.22,0.31
+"AR(2), U[-1,1] innov.","Box-Pierce",0.22,0.31
+"AR(2), t_9.5 innov.","Stud. Perm.",0.02,0.06
+"AR(2), t_9.5 innov.","Unst. Perm.",0.17,0.13
+"AR(2), t_9.5 innov.","Ljung-Box",0.3,0.3
+"AR(2), t_9.5 innov.","Box-Pierce",0.28,0.3
